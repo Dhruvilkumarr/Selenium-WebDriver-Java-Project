@@ -10,10 +10,11 @@ public class sandeshAutomation {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//sandesh.com automation
+		// sandesh.com automation
 		
-		//checking
+		// checking for Windows
 		
+		// Checking for MAC
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://timesofindia.indiatimes.com/us");
 		
