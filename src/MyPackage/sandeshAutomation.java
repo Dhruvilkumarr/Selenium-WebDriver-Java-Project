@@ -12,7 +12,7 @@ public class sandeshAutomation {
 		
 		//sandesh.com automation
 		
-		//checking git
+		//checking github
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://timesofindia.indiatimes.com/us");
